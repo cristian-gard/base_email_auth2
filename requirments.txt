@@ -1,0 +1,13 @@
+aenum==3.1.11
+asgiref==3.4.1
+dbf==0.99.2
+Django==3.2.15
+django-ckeditor==6.3.2
+django-cleanup==6.0.0
+django-crispy-forms==1.13.0
+django-js-asset==2.0.0
+Pillow==8.4.0
+psycopg2-binary==2.9.3
+pytz==2022.4
+sqlparse==0.4.3
+typing_extensions==4.1.1
